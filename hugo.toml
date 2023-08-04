@@ -17,6 +17,9 @@ theme = "DoIt"
     description = "Md. Fahim Bin Amin is a multi-faceted software engineer, educator, and open-source advocate who has become a prominent figure in the developer community."
   # website keywords
     keywords = ["Fahim", "Md. Fahim Bin Amin", "Software Engineer", "Teacher", "Programmer", "Developer", "Content Creator", "FahimFBA", "Personal website"]
+  # public git repo url only then enableGitInfo is true
+    gitRepo = "https://github.com/FahimFBA/hugo-mySite"
+  
 
 [menu]
   [[menu.main]]
